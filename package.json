@@ -1,0 +1,27 @@
+{
+  "name": "vuesc-cli",
+  "version": "1.0.0",
+  "description": "supconit_webApp vue-cli",
+  "main": "vuesc.js",
+  "bin": {
+    "vuec": "vuec.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gracezou/vuesc-cli.git"
+  },
+  "author": "Xiang Zou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gracezou/vuesc-cli/issues"
+  },
+  "homepage": "https://github.com/Gracezou/vuesc-cli#readme",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "git-clone-promise": "^1.0.0",
+    "shell.js": "^3.2.0"
+  }
+}
