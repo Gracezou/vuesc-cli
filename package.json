@@ -1,5 +1,5 @@
 {
-  "name": "vuesc-cli",
+  "name": "vue-webapp-cli",
   "version": "1.0.0",
   "description": "supconit_webApp vue-cli",
   "main": "vuesc.js",
