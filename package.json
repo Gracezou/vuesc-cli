@@ -22,6 +22,6 @@
   "dependencies": {
     "commander": "^5.1.0",
     "git-clone-promise": "^1.0.0",
-    "shell.js": "^3.2.0"
+    "shelljs": "^0.8.4"
   }
 }
